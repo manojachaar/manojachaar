@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm MANOJ M</h1>
-<h3 align="center">A highly motivated student pursuing bachelors of engineering degree in Information science engineering. Eager to learn new Technologies and use them to build innovative projects.</h3>
-
+<h3 align="center">Information Science and Engineering Graduate with hands-on experience in Full Stack Development and Machine Learning, passionate about creating impactful software solutions and continuously learning emerging technologies.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojachaar&label=Profile%20views&color=0e75b6&style=flat" alt="manojachaar" /> </p>
 
 - 📫 How to reach me **manojachar0310@gmail.com**
